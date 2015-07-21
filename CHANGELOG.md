@@ -1,3 +1,7 @@
+## 0.2.11
+
+* Skip slack-notifier installation if installed
+
 ## 0.2.10 (2015-06-20)
 Changes:
 
